@@ -1,4 +1,4 @@
-FROM cyotee/jbpm
+FROM cyotee/jbpm-ent
 
 MAINTAINER "Robert Greathouse" "cyotee@gmail.com"
 
